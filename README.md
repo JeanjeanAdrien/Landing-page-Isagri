@@ -61,6 +61,3 @@ Le design respecte l'identité visuelle ISAGRI :
 *   **Typographie** : Police `Inter` pour une lisibilité optimale.
 *   **Icônes** : FontAwesome.
 
----
-*Refactorisé par l'assistant IA Google DeepMind.*
-
